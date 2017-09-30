@@ -1,6 +1,6 @@
 
 function getFibonacci(value = null) {
-  if (!value) {
+  if (!Number.isInteger(value)) {
     return [];
   }
 
