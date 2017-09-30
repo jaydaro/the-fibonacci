@@ -15,7 +15,11 @@
     "math",
     "number",
     "test",
-    "while"
+    "while",
+    "array",
+    "int",
+    "kata",
+    "basic"
   ],
   "author": "Jay Hamilton",
   "license": "ISC",
