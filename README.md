@@ -9,6 +9,12 @@ or
 ``yarn add the-fibonacci``
 
 ####use:
+```
+const getFib = require('the-fibonacci').getFibonacci;
+getFib(2)
+//returns [2, [0,1,1]]
+```
+
 Takes an ```int``` and returns an array. 
 
 First index is the fibonacci number at ``int`` 
